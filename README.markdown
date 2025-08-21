@@ -12,7 +12,7 @@ A dynamic and responsive dashboard to track cryptocurrency data, utilizing a JSO
 ## Viewing the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/responsive-crypto-dashboard.git
+   git clone https://github.com/mibienpanjoe/Crypto-Dashboard.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -22,8 +22,6 @@ A dynamic and responsive dashboard to track cryptocurrency data, utilizing a JSO
 4. Open `index.html` in a web browser to view the dashboard.
 
 ## Preview
-Insert a screenshot or GIF of the dashboard in action below:
 
-![Crypto Dashboard Preview](path/to/your/preview-image.png)
+![Crypto Dashboard Preview](./images/preview.png)
 
-*Replace `path/to/your/preview-image.png` with the actual path or URL after uploading the image.*
